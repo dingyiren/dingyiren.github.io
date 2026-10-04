@@ -14,6 +14,6 @@ Amazon is known for its Prime shipping program, which offers fast, often two-day
 
 ## Work in Progress
 
-### "Ripple Effects of Government Procurement: Market Response across Pharmaceutical Markets" — Joint with [Xinyi Li]([https://coauthor-website.com](https://xinyi-li.com/)
+### "Ripple Effects of Government Procurement: Market Response across Pharmaceutical Markets" — Joint with [Xinyi Li](https://xinyi-li.com/)
 
 ### "Stockpiling Under Political Uncertainty: Evidence from Ammunition Sales" — Joint with [Marcella Cartledge](https://www.marcellacartledge.com/) and [Camille Wixon](https://camillewixon.com/)
