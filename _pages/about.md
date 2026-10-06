@@ -15,4 +15,4 @@ My research interests lie in industrial organization and applied microeconomics,
 
 **I am on the 2026–2027 job market.**
 
-[Curriculum Vitae](/cv/) &nbsp;|&nbsp; Email: [your.email@university.edu](mailto:your.email@university.edu)
+[Curriculum Vitae](/cv/) &nbsp;|&nbsp; Email: [yd9mk@virginia.edu](mailto:yd9mk@virginia.edu)
