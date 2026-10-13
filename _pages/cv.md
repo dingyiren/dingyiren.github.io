@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Updated October 2026. [Linked Version](/files/CV_Yiren_Ding.docx)
+Updated October 2026. [Linked Version](/files/CV_Yiren_Ding.pdf)
 
 <iframe src="/files/Yiren_Ding_CV.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
