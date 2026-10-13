@@ -7,7 +7,7 @@ author_profile: true
 
 Updated October 2026. [Linked Version](/files/CV_Yiren_Ding.pdf)
 
-<iframe src="/files/Yiren_Ding_CV.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+<iframe src="/files/CV_Yiren_Ding.pdf" width="100%" height="1000px" style="border: none;"></iframe>
 
 University of Virginia, Department of Economics  
 PO Box 400182, Charlottesville, VA 22904-4182
